@@ -19,6 +19,7 @@ body{
   border: 0.1rem solid gray;
   font-size: 2rem;
   background-color: white;
+  height: 150px;
 }
 
 #box3,
